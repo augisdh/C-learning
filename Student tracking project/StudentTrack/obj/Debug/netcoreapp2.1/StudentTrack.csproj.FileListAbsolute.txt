@@ -1,0 +1,11 @@
+C:\AUGIS\CODING\Courses\LinkedIn\C#\Learning C#\CODE\StudentTrack\StudentTrack\bin\Debug\netcoreapp2.1\StudentTrack.deps.json
+C:\AUGIS\CODING\Courses\LinkedIn\C#\Learning C#\CODE\StudentTrack\StudentTrack\bin\Debug\netcoreapp2.1\StudentTrack.runtimeconfig.json
+C:\AUGIS\CODING\Courses\LinkedIn\C#\Learning C#\CODE\StudentTrack\StudentTrack\bin\Debug\netcoreapp2.1\StudentTrack.runtimeconfig.dev.json
+C:\AUGIS\CODING\Courses\LinkedIn\C#\Learning C#\CODE\StudentTrack\StudentTrack\bin\Debug\netcoreapp2.1\StudentTrack.dll
+C:\AUGIS\CODING\Courses\LinkedIn\C#\Learning C#\CODE\StudentTrack\StudentTrack\bin\Debug\netcoreapp2.1\StudentTrack.pdb
+C:\AUGIS\CODING\Courses\LinkedIn\C#\Learning C#\CODE\StudentTrack\StudentTrack\obj\Debug\netcoreapp2.1\StudentTrack.csproj.CoreCompileInputs.cache
+C:\AUGIS\CODING\Courses\LinkedIn\C#\Learning C#\CODE\StudentTrack\StudentTrack\obj\Debug\netcoreapp2.1\StudentTrack.AssemblyInfoInputs.cache
+C:\AUGIS\CODING\Courses\LinkedIn\C#\Learning C#\CODE\StudentTrack\StudentTrack\obj\Debug\netcoreapp2.1\StudentTrack.AssemblyInfo.cs
+C:\AUGIS\CODING\Courses\LinkedIn\C#\Learning C#\CODE\StudentTrack\StudentTrack\obj\Debug\netcoreapp2.1\StudentTrack.dll
+C:\AUGIS\CODING\Courses\LinkedIn\C#\Learning C#\CODE\StudentTrack\StudentTrack\obj\Debug\netcoreapp2.1\StudentTrack.pdb
+C:\AUGIS\CODING\Courses\LinkedIn\C#\Learning C#\CODE\StudentTrack\StudentTrack\obj\Debug\netcoreapp2.1\StudentTrack.csprojAssemblyReference.cache
